@@ -1,0 +1,25 @@
+{
+  "mode": {
+    "debug": true,
+    "in_calibration": false,
+    "dvr": false
+  },
+  "video": {
+    "flip": true
+  },
+  "gps":{
+    "record": true
+  },
+  "calibration": {
+    "need_to_calibrate": false,
+    "fps": 4,
+    "lane_center": 170,
+    "x1": 140,
+    "x2": 350,
+    "road_height": 80,
+    "road_width": 4000,
+    "square_height": 30,
+    "square_width": 50,
+    "activation_speed": 0
+  }
+}
