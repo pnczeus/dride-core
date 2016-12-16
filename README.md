@@ -2,7 +2,7 @@
 
 # dride-core is almost here
 
-> Dride core is replacing [Cardigan](https://github.com/dride/Cardigan) 
+> Dride core is replacing [Cardigan](https://github.com/dride/Cardigan) and will be released soon.
 
 
 
