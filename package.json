@@ -1,0 +1,25 @@
+{
+  "name": "dride-core",
+  "version": "0.0.1",
+  "description": "A Node.js wrapper for road vision",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drideio/dride-core.git"
+  },
+  "keywords": [
+    "dride"
+  ],
+  "author": "Dride",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drideio/dride-core/issues"
+  },
+  "homepage": "https://github.com/drideio/dride-core#readme",
+  "dependencies": {
+    "python-shell": "^0.4.0"
+  }
+}
