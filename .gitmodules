@@ -1,3 +1,6 @@
 [submodule "cmake"]
 	path = cmake
 	url = https://github.com/gpichot/cmake-modules
+[submodule "core/Cardigan"]
+	path = core/Cardigan
+	url = https://github.com/dride/Cardigan
