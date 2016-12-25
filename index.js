@@ -5,7 +5,7 @@ var options = {
 };
 
 
-PythonShell.run('core/Cardigan/hey.py', options, function (err, results) {
+PythonShell.run('core/Cardigan/mainPi.py', options, function (err, results) {
   if (err) throw err;
   // results is an array consisting of messages collected during execution 
   console.log('results: %j', results);
