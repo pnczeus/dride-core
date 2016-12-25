@@ -15,5 +15,7 @@ var runDeamon = function () {
 	  console.log('results: %j', results);
 	});
 
-
 }
+
+
+exports.runDeamon = runDeamon;
